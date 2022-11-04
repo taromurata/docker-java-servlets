@@ -15,7 +15,7 @@ docker build .
 ```
 
 ```
-docker up
+docker compose up
 ```
 
 Per default the application found in /srv/helloservlet is served. You can change that by changing the APP_NAME and APP_CLASS in the docker-compose.yml.
