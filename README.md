@@ -11,7 +11,7 @@ This example will cover building and deploying a simple servlet and web page usi
 This example requires Docker CE 17.06 or higher. Clone the repository and build the application.
 
 ```
-docker build
+docker build .
 ```
 
 ```
